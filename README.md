@@ -375,7 +375,7 @@ Where "xxx" can be:
  * getDifficulty
  * getBestBlockHash
  * getLastBlockHash
-
+ * getTotalSupply
 
 ### Utility Methods
 ```
