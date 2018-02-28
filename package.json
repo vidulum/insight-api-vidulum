@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-zen",
+  "name": "insight-api-snowgem",
   "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/aayanl/insight-api-zen.git",
+  "repository": "git://github.com/snowgem/insight-api-snowgem.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,15 +42,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/aayanl/insight-api-zen/issues"
+    "url": "https://github.com/snowgem/insight-api-snowgem/issues"
   },
-  "homepage": "https://github.com/aayanl/insight-api-zen",
+  "homepage": "https://github.com/snowgem/insight-api-snowgem",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "zen api",
+    "snowgem api",
     "blockchain api",
     "json",
     "bitcore"
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "aayanl/bitcore-lib-zen",
-    "bitcore-message-zen": "aayanl/bitcore-message-zen",
+    "bitcore-lib-snowgem": "snowgem/bitcore-lib-snowgem",
+    "bitcore-message-snowgem": "snowgem/bitcore-message-snowgem",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",

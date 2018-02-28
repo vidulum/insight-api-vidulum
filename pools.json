@@ -1,9 +1,58 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zen.flypool.org/",
+    "poolName": "miningspeed",
+    "url": "https://snowgem.miningspeed.com/",
     "searchStrings": [
-      "/flypool/"
+      "/miningspeed/"
+    ]
+  },
+  {
+    "poolName": "nibirupool",
+    "url": "http://sng.nibirupool.com/",
+    "searchStrings": [
+      "/nibirupool/"
+    ]
+  },
+  {
+    "poolName": "miningspeed",
+    "url": "https://snowgem.miningspeed.com/",
+    "searchStrings": [
+      "/miningspeed/"
+    ]
+  },
+  {
+    "poolName": "aikapool",
+    "url": "https://aikapool.com/sng/",
+    "searchStrings": [
+      "/aikapool/"
+    ]
+  },
+  {
+    "poolName": "aikapool",
+    "url": "https://aikapool.com/sng/",
+    "searchStrings": [
+      "/aikapool/"
+    ]
+  },
+  {
+    "poolName": "miningpools",
+    "url": "http://miningpools.cloud/?pool=snowgem#/",
+    "searchStrings": [
+      "/miningpools/"
+    ]
+  },
+  {
+    "poolName": "magnificentpool",
+    "url": "https://sng.magnificentpool.com/",
+    "searchStrings": [
+      "/magnificentpool/"
+    ]
+  },
+  {
+    "poolName": "minepool",
+    "url": "http://sng.minepool.ch/",
+    "searchStrings": [
+      "/minepool/"
     ]
   },
   {
@@ -18,13 +67,6 @@
     "url": "",
     "searchStrings": [
       "/nodeStratum/"
-    ]
-  },
-  {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
-    "searchStrings": [
-      "{ZMINE.IO}"
     ]
   }
 ]
