@@ -56,6 +56,13 @@
     ]
   },
   {
+    "poolName": "Lucky-Mining",
+    "url": "https://hush.lucky-mining.com.ua/",
+    "searchStrings": [
+      "lucky-mining.com.ua"
+    ]
+  },
+  {
     "poolName": "NaN",
     "url": "",
     "searchStrings": [
