@@ -75,5 +75,12 @@
     "searchStrings": [
       "/nodeStratum/"
     ]
+   },
+   {
+    "poolName": "POOOL!",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
+    ]
   }
 ]
