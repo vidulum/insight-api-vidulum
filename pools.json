@@ -1,65 +1,107 @@
 [
   {
-    "poolName": "miningspeed",
+    "poolName": "Miningspeed",
     "url": "https://snowgem.miningspeed.com/",
     "searchStrings": [
-      "/miningspeed/"
+      "miningspeed"
     ]
-  },
+  },  
   {
-    "poolName": "nibirupool",
-    "url": "http://sng.nibirupool.com/",
+    "poolName": "Lambomoon",
+    "url": "https://lambomoon.club/",
     "searchStrings": [
-      "/nibirupool/"
+      "lambomoon"
     ]
   },
   {
-    "poolName": "miningspeed",
-    "url": "https://snowgem.miningspeed.com/",
+    "poolName": "Sgpool",
+    "url": "https://www.sgpool.net",
     "searchStrings": [
-      "/miningspeed/"
+      "sgpool.net"
     ]
   },
   {
-    "poolName": "aikapool",
+    "poolName": "MinerManiac",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "minermaniac"
+    ]
+  },
+  {
+    "poolName": "Ehashcoins",
+    "url": "http://sng.ehashcoins.org/",
+    "searchStrings": [
+      "solopool"
+    ]
+  },
+  {
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool"
+    ]
+  },
+  {
+    "poolName": "Aikapool",
     "url": "https://aikapool.com/sng/",
     "searchStrings": [
-      "/aikapool/"
+      "Aika"
     ]
   },
   {
-    "poolName": "aikapool",
-    "url": "https://aikapool.com/sng/",
-    "searchStrings": [
-      "/aikapool/"
-    ]
-  },
-  {
-    "poolName": "miningpools",
+    "poolName": "Miningpools",
     "url": "http://miningpools.cloud/?pool=snowgem#/",
     "searchStrings": [
-      "/miningpools/"
+      "miningpools"
     ]
   },
   {
-    "poolName": "magnificentpool",
+    "poolName": "Magnificentpool",
     "url": "https://sng.magnificentpool.com/",
     "searchStrings": [
-      "/magnificentpool/"
+      "magnificent"
     ]
   },
   {
-    "poolName": "minepool",
+    "poolName": "Minepool",
     "url": "http://sng.minepool.ch/",
     "searchStrings": [
-      "/minepool/"
+      "minepool"
     ]
   },
   {
-    "poolName": "Lucky-Mining",
-    "url": "https://sng.lucky-mining.com.ua/",
+    "poolName": "Sexy",
+    "url": "http://sng.pool.sexy",
     "searchStrings": [
-      "lucky-mining.com.ua"
+      "Sexy"
+    ]
+  },
+  {
+    "poolName": "Nibirupool",
+    "url": "http://sng.nibirupool.com/",
+    "searchStrings": [
+      "nibiru"
+    ]
+  },
+  {
+    "poolName": "Pcmining",
+    "url": "http://pcmining.xyz:8080/getting_started",
+    "searchStrings": [
+      "pcmining"
+    ]
+  },
+  {
+    "poolName": "Zhash",
+    "url": "https://snowgem.zhash.pro/",
+    "searchStrings": [
+      "zhash"
+    ]
+  },
+  {
+    "poolName": "Blockmasher",
+    "url": "http://snowgem.blocksmasher.org/",
+    "searchStrings": [
+      "blocksmasher"
     ]
   },
   {
@@ -71,12 +113,75 @@
   },
   {
     "poolName": "Stratum",
-    "url": "",
+    "url": "https://snowgem.org",
     "searchStrings": [
-      "/nodeStratum/"
+      "stratum"
     ]
-   },
-   {
+  },
+  {
+    "poolName": "Solo mining",
+    "url": "https://snowgem.org",
+    "searchStrings": [
+      "solomining"
+    ]
+  },
+{
+  "poolName": "Lucky-Mining",
+  "url": "https://sng.lucky-mining.com.ua/",
+  "searchStrings": [
+    "lucky-mining.com.ua"
+  ]
+},
+  {
+    "poolName": "NOMP pool",
+    "url": "https://snowgem.org",
+    "searchStrings": [
+      "joshuayabut"
+    ]
+  },
+  {
+    "poolName": "Snowgempool",
+    "url": "http://snowgempool.cloud",
+    "searchStrings": [
+      "snowgempool"
+    ]
+  },
+  {
+    "poolName": "CloudPools",
+    "url": "https://cloudpools.net/",
+    "searchStrings": [
+      "cloudpools"
+    ]
+  },
+  {
+    "poolName": "AxePool",
+    "url": "https://snowgem.axepool.com/",
+    "searchStrings": [
+      "axepool"
+    ]
+  },
+  {
+    "poolName": "Abacuspool",
+    "url": "http://abakus.gemini.net.pl/",
+    "searchStrings": [
+      "abakus"
+    ]
+  },
+  {
+    "poolName": "Xsgpool",
+    "url": "http://xsgpool.com/",
+    "searchStrings": [
+      "xsgpool.com"
+    ]
+  },
+  {
+    "poolName": "AltPool",
+    "url": "http://xsg.altpool.pro/",
+    "searchStrings": [
+      "altpool.pro"
+    ]
+  },
+  {
     "poolName": "POOOL!",
     "url": "http://www.POOOL.com/",
     "searchStrings": [
