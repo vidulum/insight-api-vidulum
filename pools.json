@@ -1,16 +1,16 @@
 [
   {
-    "poolName": "example",
-    "url": "https://vidulum.miningspeed.com/",
+    "poolName": "Someone using z-nomp!",
+    "url": "https://github.com/z-classic/z-nomp/",
     "searchStrings": [
-      "miningspeed"
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
     ]
   },
   {
-    "poolName": "example1",
-    "url": "http://www.pool123.com/",
+    "poolName": "EquiHub",
+    "url": "https://vidulum.equihub.pro",
     "searchStrings": [
-      "pool123.com http://www.pool123.com/"
+      "EquiHub https://vidulum.equihub.pro"
     ]
   }
 ]
