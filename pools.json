@@ -7,10 +7,31 @@
     ]
   },
   {
+    "poolName": "zpool",
+    "url": "https://www.zpool.ca",
+    "searchStrings": [
+      "zpool.ca"
+    ]
+  },
+  {
     "poolName": "EquiHub",
     "url": "https://vidulum.equihub.pro",
     "searchStrings": [
       "EquiHub https://vidulum.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "MinerMore",
+    "url": "https://minermore.com/pool/VDL/",
+    "searchStrings": [
+      "minermore.com"
+    ]
+  },
+  {
+    "poolName": "s-nomp",
+    "url": "https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link",
+    "searchStrings": [
+      "Default s-nomp pool https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link"
     ]
   }
 ]

@@ -376,6 +376,7 @@ Where "xxx" can be:
  * getBestBlockHash
  * getLastBlockHash
  * getTotalSupply
+ * getNetworkHashrate
 
 ### Utility Methods
 ```
