@@ -33,5 +33,12 @@
     "searchStrings": [
       "Default s-nomp pool https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link"
     ]
+  },
+  {
+    "poolName": "Zergpool",
+    "url": "http://zergpool.com",
+    "searchStrings": [
+      "Zergpool http://zergpool.com"
+    ]
   }
 ]
