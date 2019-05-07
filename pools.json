@@ -28,6 +28,13 @@
     ]
   },
   {
+    "poolName": "fomominers",
+    "url": "https://fomominers.com",
+    "searchStrings": [
+      "fomominers fomominers.com"
+    ]
+  },
+  {
     "poolName": "s-nomp",
     "url": "https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link",
     "searchStrings": [
