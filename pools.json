@@ -14,6 +14,13 @@
     ]
   },
   {
+    "poolName": "BitPool",
+    "url": "https://bitpool.ro/",
+    "searchStrings": [
+      "https://bitpool.ro/"
+    ]
+  },
+  {
     "poolName": "EquiHub",
     "url": "https://vidulum.equihub.pro",
     "searchStrings": [
