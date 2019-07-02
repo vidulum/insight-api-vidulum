@@ -21,6 +21,13 @@
     ]
   },
   {
+    "poolName": "NLPOOL",
+    "url": "https://nlpool.nl/",
+    "searchStrings": [
+      "NLPOOL"
+    ]
+  },
+  {
     "poolName": "EquiHub",
     "url": "https://vidulum.equihub.pro",
     "searchStrings": [
