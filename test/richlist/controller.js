@@ -10,7 +10,7 @@ class FakeBitcoinService extends EventEmitter {
 }
 
 describe('RichListController', function() {
-    let mongo = new MongoClient('mongodb://localhost:27017/insight_zcoin_test', { useNewUrlParser: true });
+    let mongo = new MongoClient('mongodb://localhost:27017/insight_vidulum_test', { useNewUrlParser: true });
     let bitcoind = undefined;
     let storage = undefined;
     let controller = undefined;
