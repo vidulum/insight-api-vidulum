@@ -7,6 +7,13 @@
     ]
   },
   {
+    "poolName": "mining-dutch",
+    "url": "https://www.mining-dutch.nl/",
+    "searchStrings": [
+      "zpool.ca"
+    ]
+  },
+  {
     "poolName": "zpool",
     "url": "https://www.zpool.ca",
     "searchStrings": [
