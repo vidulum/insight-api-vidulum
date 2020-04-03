@@ -14,6 +14,13 @@
     ]
   },
   {
+    "poolName": "Powermining Pool",
+    "url": "https://www.powermining.pw/",
+    "searchStrings": [
+      "Powermining Pool - https://www.powermining.pw"
+    ]
+  },
+  {
     "poolName": "zpool",
     "url": "https://www.zpool.ca",
     "searchStrings": [
@@ -35,10 +42,31 @@
     ]
   },
   {
-    "poolName": "EquiHub",
-    "url": "https://vidulum.equihub.pro",
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-vdl.equihub.pro/",
     "searchStrings": [
-      "EquiHub https://vidulum.equihub.pro"
+      "EquiHub Solo EU https://solo-vdl.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "EquiHub US",
+    "url": "https://vdl.equihub.pro",
+    "searchStrings": [
+      "EquiHub US https://vdl.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "EquiHub EU",
+    "url": "https://vdl.equihub.pro",
+    "searchStrings": [
+      "EquiHub EU https://vdl.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "EquiHub ASIA",
+    "url": "https://vdl.equihub.pro",
+    "searchStrings": [
+      "EquiHub ASIA https://vdl.equihub.pro"
     ]
   },
   {
