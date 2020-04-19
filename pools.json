@@ -14,7 +14,14 @@
     ]
   },
   {
-    "poolName": "Powermining Pool",
+    "poolName": "1Square",
+    "url": "https://www.powermining.pw/",
+    "searchStrings": [
+      "1square.net"
+    ]
+  },
+  {
+    "poolName": "Powermining",
     "url": "https://www.powermining.pw/",
     "searchStrings": [
       "Powermining Pool - https://www.powermining.pw"
