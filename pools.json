@@ -7,6 +7,20 @@
     ]
   },
   {
+    "poolName": "dapool.io",
+    "url": "https://dapool.io/coin/vdl",
+    "searchStrings": [
+      "dapool.io"
+    ]
+  },
+  {
+    "poolName": "Fenixpool",
+    "url": "http://fenixpool.top",
+    "searchStrings": [
+      "Fenixpool.top http://fenixpool.top"
+    ]
+  },
+  {
     "poolName": "mining-dutch",
     "url": "https://www.mining-dutch.nl/",
     "searchStrings": [
