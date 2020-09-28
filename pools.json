@@ -117,5 +117,12 @@
     "searchStrings": [
       "Zergpool http://zergpool.com"
     ]
+  },
+  {
+    "poolName": "Speedpool",
+    "url": "https://equihash.speedpool.top/getting_started",
+    "searchStrings": [
+      "Speedpool.top"
+    ]
   }
 ]
