@@ -63,31 +63,45 @@
     ]
   },
   {
-    "poolName": "EquiHub Solo EU",
-    "url": "https://solo-vdl.equihub.pro/",
+    "poolName": "MinerPool Solo EU",
+    "url": "https://solo-vdl.minerpool.org/",
     "searchStrings": [
-      "EquiHub Solo EU https://solo-vdl.equihub.pro"
+      "MinerPool Solo EU"
     ]
   },
   {
-    "poolName": "EquiHub US",
-    "url": "https://vdl.equihub.pro",
+    "poolName": "MinerPool Solo US",
+    "url": "https://solo-vdl.minerpool.org/",
     "searchStrings": [
-      "EquiHub US https://vdl.equihub.pro"
+      "MinerPool Solo US"
     ]
   },
   {
-    "poolName": "EquiHub EU",
-    "url": "https://vdl.equihub.pro",
+    "poolName": "MinerPool Solo ASIA",
+    "url": "https://solo-vdl.minerpool.org/",
     "searchStrings": [
-      "EquiHub EU https://vdl.equihub.pro"
+      "MinerPool Solo ASIA"
     ]
   },
   {
-    "poolName": "EquiHub ASIA",
-    "url": "https://vdl.equihub.pro",
+    "poolName": "MinerPool EU",
+    "url": "https://vdl.minerpool.org/",
     "searchStrings": [
-      "EquiHub ASIA https://vdl.equihub.pro"
+      "MinerPool EU"
+    ]
+  },
+  {
+    "poolName": "MinerPool US",
+    "url": "https://vdl.minerpool.org/",
+    "searchStrings": [
+      "MinerPool US"
+    ]
+  },
+  {
+    "poolName": "MinerPool ASIA",
+    "url": "https://vdl.minerpool.org/",
+    "searchStrings": [
+      "MinerPool ASIA"
     ]
   },
   {
