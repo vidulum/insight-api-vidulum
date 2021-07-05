@@ -105,6 +105,13 @@
     ]
   },
   {
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-vdl.equihub.pro",
+    "searchStrings": [
+      "EquiHub Solo EU https://solo-vdl.equihub.pro"
+    ]
+  },
+  {
     "poolName": "MinerMore",
     "url": "https://minermore.com/pool/VDL/",
     "searchStrings": [
